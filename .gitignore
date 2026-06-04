@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / results
+data/
+results/
+*.csv
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Secret files
+.env
+config.json
+
+results/*
+!results/graph/
+!results/graph/**
