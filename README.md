@@ -26,9 +26,7 @@ ECM 法は、各データを 1 つの「点」ではなく、異なる 2 つの�
 - 接続強度の閾値処理によるノイズ除去
 - 3次元データ（螺旋・2変量正規分布）への適用
 
-<!-- 結果図を docs/figures などに置き、ここに貼ると一目で伝わります
-![double circle](docs/figures/double_circle.png)
--->
+![double circle](results/graph/4_1_1.png)
 
 ## ディレクトリ構成
 
