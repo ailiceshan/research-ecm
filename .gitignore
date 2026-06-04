@@ -24,6 +24,3 @@ results/
 .env
 config.json
 
-results/*
-!results/graph/
-!results/graph/**
