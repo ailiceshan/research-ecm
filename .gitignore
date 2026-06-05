@@ -24,3 +24,10 @@ results/
 .env
 config.json
 
+
+# Private research materials before paper submission
+src/*.ipynb
+docs/thesis/
+docs/**/*.pdf
+private/
+*_private/
